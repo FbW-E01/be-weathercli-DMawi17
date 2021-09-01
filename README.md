@@ -1,4 +1,4 @@
-# Weather CLI 
+# Weather CLI
 
 Create a Weather CLI. The program should have an API call for [`OpenWeather`](https://openweathermap.org/guide), and it should accept any given city as an argument when it is called (see example below).
 
