@@ -1,6 +1,6 @@
 # Weather CLI 
 
-Create a Weather CLI. The program should have an API call for [`OpenWeather`](https://openweathermap.org/guide), and it should accept any given city as an argument when it is called (see example below). 
+Create a Weather CLI. The program should have an API call for [`OpenWeather`](https://openweathermap.org/guide), and it should accept any given city as an argument when it is called (see example below).
 
 -   Make sure the program has an `index.js` file and any other files required.
 -   Make sure to use `axios`.
