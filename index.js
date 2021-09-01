@@ -1,7 +1,7 @@
 import axios from "axios";
 import { argv } from "process";
 
-const API_KEY = "2bc4a47ea23fa9725545289cb0ff5fd3";
+const API_KEY = "";
 
 const city = argv[2];
 const country = argv[3];
